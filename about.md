@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Kent Kashiyama is a biochemistry undergrad studying at California Polytechnic University in San Luis Obispo.
 
 ### More Information
 
@@ -12,4 +12,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[armcdona@calpoly.edu](mailto:armcdona@calpoly.edu)
+[Kkashiya@calpoly.edu](mailto:kkashiya@calpoly.edu)
